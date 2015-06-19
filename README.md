@@ -18,3 +18,5 @@ http://gymnasium.aquent.com/catalog - Video Course on JS fundamentals (4 hours l
 https://www.udacity.com/course/javascript-basics--ud804 - Video Course on JS Basic
 
 https://github.com/jshomes/JSHomes-Platform/issues/2
+
+http://jsbooks.revolunet.com/
