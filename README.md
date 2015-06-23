@@ -20,3 +20,5 @@ https://www.udacity.com/course/javascript-basics--ud804 - Video Course on JS Bas
 https://github.com/jshomes/JSHomes-Platform/issues/2
 
 http://jsbooks.revolunet.com/
+
+https://leanpub.com/understandinges6/read/
