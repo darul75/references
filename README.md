@@ -22,3 +22,5 @@ https://github.com/jshomes/JSHomes-Platform/issues/2
 http://jsbooks.revolunet.com/
 
 https://leanpub.com/understandinges6/read/
+
+https://github.com/underscorediscovery/v8-tutorials
